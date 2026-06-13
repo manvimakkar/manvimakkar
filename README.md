@@ -108,7 +108,6 @@ Bennett University (NAAC A+ Accredited)
 * TryHackMe Learning Pathways
 
 ---
-
 📫 Connect With Me
 
 📍 Sydney, Australia
@@ -117,5 +116,15 @@ Bennett University (NAAC A+ Accredited)
 
 💼 Open to Cybersecurity, Cloud Security and IT Graduate Opportunities
 ---
+## 🚀 Career Goals
+
+Currently seeking opportunities in:
+
+- Cybersecurity Traineeships
+- Cloud Security
+- Identity & Access Management (IAM)
+- Security Operations
+- Graduate Technology Programs
 
 Always learning, building and documenting practical cybersecurity skills.
+
